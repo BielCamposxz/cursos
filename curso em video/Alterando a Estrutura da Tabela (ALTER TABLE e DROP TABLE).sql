@@ -1,4 +1,3 @@
--- isso serve para falar que vou alterar a minha tabelas
 -- se eu quiser colocar um campo no final e so eu nn falar nada
 -- se eu quiser colocar depois de um e so usar o "after"
 -- se quiser colocar no comecao e so usar o "first"
@@ -6,6 +5,8 @@
 -- o change muda o nome, o tipo e as constranges
 -- para apagar uma coluna e "alter table cursos drop column ano"
 -- para apagar a tabela e "drop table cursos"
+
+-- isso serve para falar que vou alterar a minha tabelas
 alter table pessoas
 -- aqui fala que vou adicionar uma nova coluna nela
 add column profissao varchar(10);
