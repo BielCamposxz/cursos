@@ -1,0 +1,14 @@
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\bin\Debug\net8.0\concatenando strings em C#.exe
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\bin\Debug\net8.0\concatenando strings em C#.deps.json
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\bin\Debug\net8.0\concatenando strings em C#.runtimeconfig.json
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\bin\Debug\net8.0\concatenando strings em C#.dll
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\bin\Debug\net8.0\concatenando strings em C#.pdb
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\obj\Debug\net8.0\concatenando strings em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\obj\Debug\net8.0\concatenando strings em C#.AssemblyInfoInputs.cache
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\obj\Debug\net8.0\concatenando strings em C#.AssemblyInfo.cs
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\obj\Debug\net8.0\concatenando strings em C#.csproj.CoreCompileInputs.cache
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\obj\Debug\net8.0\concatenando strings em C#.dll
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\obj\Debug\net8.0\refint\concatenando strings em C#.dll
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\obj\Debug\net8.0\concatenando strings em C#.pdb
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\obj\Debug\net8.0\concatenando strings em C#.genruntimeconfig.cache
+C:\Users\figue\C#\concatenando strings em C#\concatenando strings em C#\obj\Debug\net8.0\ref\concatenando strings em C#.dll

@@ -1,0 +1,14 @@
+C:\Users\figue\C#\variaveis\variaveis\bin\Debug\net8.0\variaveis.exe
+C:\Users\figue\C#\variaveis\variaveis\bin\Debug\net8.0\variaveis.deps.json
+C:\Users\figue\C#\variaveis\variaveis\bin\Debug\net8.0\variaveis.runtimeconfig.json
+C:\Users\figue\C#\variaveis\variaveis\bin\Debug\net8.0\variaveis.dll
+C:\Users\figue\C#\variaveis\variaveis\bin\Debug\net8.0\variaveis.pdb
+C:\Users\figue\C#\variaveis\variaveis\obj\Debug\net8.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\C#\variaveis\variaveis\obj\Debug\net8.0\variaveis.AssemblyInfoInputs.cache
+C:\Users\figue\C#\variaveis\variaveis\obj\Debug\net8.0\variaveis.AssemblyInfo.cs
+C:\Users\figue\C#\variaveis\variaveis\obj\Debug\net8.0\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\figue\C#\variaveis\variaveis\obj\Debug\net8.0\variaveis.dll
+C:\Users\figue\C#\variaveis\variaveis\obj\Debug\net8.0\refint\variaveis.dll
+C:\Users\figue\C#\variaveis\variaveis\obj\Debug\net8.0\variaveis.pdb
+C:\Users\figue\C#\variaveis\variaveis\obj\Debug\net8.0\variaveis.genruntimeconfig.cache
+C:\Users\figue\C#\variaveis\variaveis\obj\Debug\net8.0\ref\variaveis.dll

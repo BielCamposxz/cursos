@@ -1,0 +1,46 @@
+li {
+    width: 200px;
+}
+
+/* seletor :nth-child() */
+/* escolhe o item */
+li:nth-child(1) {
+    color: red;
+}
+
+/* vai pulando de 2 em dois */
+li:nth-child(2n) {
+    color: blue;
+}
+
+li:hover     {
+    background-color: #777;
+    color: white;
+}
+/* quando focar */
+input:focus {
+    background-color: red;
+}
+
+li::before {
+    content: " (antes) ";
+}
+
+li::after {
+    content: " (depois) ";
+}
+
+/* primeiro item */
+li:first-child {
+    color: orange;
+}
+
+/* ultimo item */
+li:last-child {
+    color: purple;
+}
+
+/* todos que nao seja o que esta () vai ter alguma coisa*/
+li:not(:first-child) {
+    border: 1px solid black;
+}

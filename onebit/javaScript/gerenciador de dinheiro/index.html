@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <h1>minhas financas</h1>
+    <main>
+        <form action="http://localhost:3000/trasferencias" method="post">
+            <h2>nova transação</h2>
+            <label for="valor">Valor:</label>
+            <input type="text" placeholder="valor" id="valor">
+            <label for="nome">Nome: </label>
+            <input type="text" placeholder="nome" id="nome">
+            <br><br>
+            <button id="enviar">enviar</button>
+        </form>
+        <div>
+            <h2>saldo: <span id="saldo"></span></h2>
+            <h2>Histórico de Transações</h2>
+            <section id="historico"></section>
+        </div>
+    </main>
+</body>
+</html>

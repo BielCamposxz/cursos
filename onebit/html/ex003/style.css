@@ -1,0 +1,19 @@
+body {
+    font: normal 16px arial;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: right;
+}
+
+p {
+    /*alinhado no comeco e final*/
+    text-align: justify;
+    
+    /*afastamento do comecao*/
+    text-indent: 30px;
+}

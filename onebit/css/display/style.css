@@ -1,0 +1,14 @@
+/* inline nao quebra de linha e tem a largura minima */
+.inline {
+    display: inline;
+}
+
+/* block ele quebra de linha, e tem a largura maxima */
+.block {
+    display: block;
+}
+
+/* nao quebra linha, ele tem como colocar margin e padding em todos os angulos */
+.inline-block {
+    display: inline-block;
+}

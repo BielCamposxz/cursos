@@ -1,0 +1,14 @@
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\obj\Debug\net8.0\meu primeiro projeto em c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\obj\Debug\net8.0\meu primeiro projeto em c#.AssemblyInfoInputs.cache
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\obj\Debug\net8.0\meu primeiro projeto em c#.AssemblyInfo.cs
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\obj\Debug\net8.0\meu primeiro projeto em c#.csproj.CoreCompileInputs.cache
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\bin\Debug\net8.0\meu primeiro projeto em c#.exe
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\bin\Debug\net8.0\meu primeiro projeto em c#.deps.json
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\bin\Debug\net8.0\meu primeiro projeto em c#.runtimeconfig.json
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\bin\Debug\net8.0\meu primeiro projeto em c#.dll
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\bin\Debug\net8.0\meu primeiro projeto em c#.pdb
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\obj\Debug\net8.0\meu primeiro projeto em c#.dll
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\obj\Debug\net8.0\refint\meu primeiro projeto em c#.dll
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\obj\Debug\net8.0\meu primeiro projeto em c#.pdb
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\obj\Debug\net8.0\meu primeiro projeto em c#.genruntimeconfig.cache
+C:\Users\figue\C#\meu primeiro projeto em c#\meu primeiro projeto em c#\obj\Debug\net8.0\ref\meu primeiro projeto em c#.dll

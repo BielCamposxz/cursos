@@ -1,0 +1,17 @@
+{
+  "name": "usando-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx hello-world-npm",
+    "test": "node index.js"
+  },
+  "author": "gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "hello-world-npm": "^1.1.1",
+    "lodash": "^4.17.21"
+  },
+  "keywords": [],
+  "description": ""
+}

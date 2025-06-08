@@ -1,0 +1,15 @@
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\bin\Debug\net8.0\estrutura de repeticao.exe
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\bin\Debug\net8.0\estrutura de repeticao.deps.json
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\bin\Debug\net8.0\estrutura de repeticao.runtimeconfig.json
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\bin\Debug\net8.0\estrutura de repeticao.dll
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\bin\Debug\net8.0\estrutura de repeticao.pdb
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\obj\Debug\net8.0\estrutura de repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\obj\Debug\net8.0\estrutura de repeticao.AssemblyInfoInputs.cache
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\obj\Debug\net8.0\estrutura de repeticao.AssemblyInfo.cs
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\obj\Debug\net8.0\estrutura de repeticao.csproj.CoreCompileInputs.cache
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\obj\Debug\net8.0\estrutura de repeticao.sourcelink.json
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\obj\Debug\net8.0\estrutura de repeticao.dll
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\obj\Debug\net8.0\refint\estrutura de repeticao.dll
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\obj\Debug\net8.0\estrutura de repeticao.pdb
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\obj\Debug\net8.0\estrutura de repeticao.genruntimeconfig.cache
+C:\Users\figue\cursos\programador-tech\estrutura de repeticao\estrutura de repeticao\obj\Debug\net8.0\ref\estrutura de repeticao.dll

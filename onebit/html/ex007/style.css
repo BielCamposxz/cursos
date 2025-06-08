@@ -1,0 +1,59 @@
+body {
+    font-family: arial;
+    background-color: rgb(161, 161, 161);
+    margin: 0px;
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+
+}
+
+nav {
+    background-color: rgb(135, 135, 135);
+    padding: 3px;
+    box-shadow: 4px 3px 7px 1px rgba(0, 0, 0, 0.386);
+}
+
+nav > a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+nav > a:hover {
+    background-color: rgba(245, 245, 220, 0.266);
+    padding: 2px;
+    border-radius: 2px;
+    
+}
+
+main {
+    background-color: rgba(255, 255, 255, 0.241);
+    padding: 10px;
+    margin: 10;
+    border-radius: 10px 0px;
+    box-shadow: 4px 4px 9px 0px rgba(0, 0, 0, 0.384);
+}
+
+article {
+    background-color: lightgray;
+    padding: 5px;
+}
+
+article > aside {
+    background-color: rgb(159, 156, 156);
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 4px;
+}
+
+footer > p {
+    margin: 0px;
+}

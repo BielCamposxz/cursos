@@ -1,0 +1,45 @@
+.n1 {
+    border: 5px solid black;
+    width: 200px;
+    padding: 10px ;
+    outline: 5px solid red;
+    margin-top: 40px;
+    margin-left: 50px;
+    
+}
+
+/*primeiro: margem
+segundo: outline
+terceiro: border
+quarto: padding
+*/
+
+.n2 {
+    height: 300px;
+    width: 300px;
+    background-color: rgba(207, 206, 206, 0.778);
+
+    border: 10px solid #326f6f;
+
+    padding: 10px;
+
+    /*centralizar*/
+    margin: 20px auto 40px auto;
+    
+
+    outline: 5px dashed salmon;
+
+}
+
+a {
+    border: 10px solid red;
+    padding: 10px;
+}
+
+/*
+box-level "tela toda"
+inline-level "uma parte do texto"
+
+display: block; = tela toda
+display: inline; = uma parte do texto/ codigo
+*/

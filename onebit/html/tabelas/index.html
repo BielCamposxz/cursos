@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>criacao de tabelas</h1>
+
+    <table>
+        <tr>
+            <th>coluna 1</th>
+            <th>coluna 2</th>
+        </tr>
+        <tr>
+            <td>dado 1</td>
+            <td>dado 2</td>
+        </tr>
+        <tr>
+            <td>dado 3</td>
+            <td>dado 4</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <h2>
+        tabelas com cabecalho
+    </h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>nome</th>
+                <th>idade</th>
+                <th>profissao</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>joao</td>
+                <td>30</td>
+                <td>prefeito</td>
+            </tr>
+
+            <tr>
+                <td>gabriel</td>
+                <td>15</td>
+                <td>programador</td>
+            </tr>
+
+            <tr>
+                <td>felipe</td>
+                <td>15</td>
+                <td>nao tem</td>
+            </tr>
+        </tbody>
+
+    </table>
+
+    <hr>
+
+    <h2>tabelas com celulas personalizadas
+    </h2>
+    <!-- colocar borda, mas nao e o jeito certo -->
+    <table border="1">
+        <thead>
+            <tr>
+                <!-- tamanho da coluna -->
+                <th colspan="2">inforamacoes pessoasis</th>
+                <th>contato</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>nome</td>
+                <td>joao</td>
+                <!-- tamanho de 2 linhas -->
+                <td rowspan="2">telefone: 12345678</td>
+            </tr>
+            <tr>
+                <td>idade:</td>
+                <td>30</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>cadastro de usuario</h1>
+        <input type="text" name="nome" placeholder="nome completo" id="nome" required>
+        <input type="text" name="estudo" placeholder="local do estudo" id="escola" required>
+        <input type="number" name="idd" placeholder="data de nacimento" id="idade" required>
+        <button type="submit" onclick="enviar()">envia</button>
+    <p id="res"></p>
+<hr>
+    <h1>calculadora</h1>
+    <input type="number" id="n1"> <br>
+    <p id="opera">?</p>
+    <input type="number" id="n2">
+    <p id="resultado"></p>
+    <button onclick="mais()">+</button>
+    <button onclick="menos()">-</button>
+    <button onclick="div()">/</button>
+    <button onclick="mul()">x</button>
+</body>
+<script src="index.js"></script>
+</html>

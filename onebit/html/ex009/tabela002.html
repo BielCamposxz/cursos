@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: arial;
+        }
+
+        table {
+            width: 450px;
+            border-collapse: collapse;
+        }
+
+       thead, tfoot {
+        background-color: gray;
+        color: white;
+       }
+
+        td,th {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        /*efeito zebrado / 2n = de 2 em 2 */
+        /* "odd" = coloca nas impares
+            "even" = colocas nas pares
+        */
+        tbody tr:nth-child(2n-1) {
+            background-color: rgb(202, 202, 202);
+
+        }
+
+
+        #num {
+            text-align: right;
+        }
+  
+        caption {
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 10px;
+            background-color: lightgray;
+        }
+
+        .pequeno {
+            width: 90px;
+        }
+    </style>
+</head>
+<body>
+    <h1>uso de tabelas grandes</h1>
+    <!-- ANATOMIA DE TABELAS grandes
+        TABLE
+            legenda
+            THEAD 
+                TR, TD, TH
+            TBODY 
+                TR, TD, TH
+            TFOOT 
+                TR, TD, TH 
+            -->
+    <table>
+        <caption>
+            <!-- legenda -->
+            populacao das unidades federativas
+        </caption>
+        <!-- cabecaz -->
+        <thead>
+            <tr>
+                <th scope="col">estado</th>
+                <th scope="col" class="pequeno">populacao</th>
+            </tr>
+        </thead>
+        <!-- corpo -->
+        <tbody>
+            <tr>
+                <td>sao paulo</td>
+                <td id="num">45 919 049</td>
+            </tr>
+            <tr>
+                <td>minas gerais</td>
+                <td id="num">21 264 943</td>
+            </tr>
+            <tr>
+                <td>rio de janeiro</td>
+                <td id="num">17 246 943</td>
+            </tr>
+            <tr>
+                <td>bahia</td>
+                <td id="num">14 873 063</td>
+            </tr>
+            <tr>
+                <td>parana</td>
+                <td id="num">11 433 957</td>
+            </tr>
+            <tr>
+                <td>rio grande do sul</td>
+                <td id="num">11 377 239</td>
+            </tr>
+            <tr>
+                <td>pernambuco</td>
+                <td id="num">9 557 0711</td>
+            </tr>
+            <tr>
+                <td>ceara</td>
+                <td id="num">9 132 078</td>
+            </tr>
+            <tr>
+                <td>para</td>
+                <td id="num">8 602 865</td>
+            </tr>
+            <tr>
+                <td>santa catariana</td>
+                <td id="num">7 164 788</td>
+            </tr>
+            <tr>
+                <td>maranhao</td>
+                <td id="num">7 075 181</td>
+            </tr>
+            <tr>
+                <td>goias</td>
+                <td id="num">7 018 354</td>
+            </tr>
+            <tr>
+                <td>amazonas</td>
+                <td id="num">4 144 597</td>
+            </tr>
+            <tr>
+                <td>espirito santo</td>
+                <td id="num">4 018 650</td>
+            </tr>
+        </tbody>
+        <!-- pe -->
+        <tfoot>
+            <tr>
+                <th scope="row">total de habitantes</th>
+                <td id="num">210 147 125</td>
+            </tr>
+        </tfoot>
+    </table>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Previsão do Clima</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Previsão do Clima</h1>
+            <p>Descubra as condições meteorológicas para qualquer lugar!</p>
+        </header>
+
+        <section class="search">
+            <input type="text" id="lugar" placeholder="Digite o nome do lugar..." autofocus>
+            <button id="searchBtn">Buscar</button>
+        </section>
+
+        <section id="weatherInfo" class="weather-info">
+            <h2 id="location">Local: <span id="local"></span></h2>
+            <div id="weatherDetails">
+                
+            </div>
+        </section>
+    </div>
+</body>
+</html>

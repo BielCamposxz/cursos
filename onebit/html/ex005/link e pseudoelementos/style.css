@@ -1,0 +1,39 @@
+body {
+    font-family: arial;
+
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+/*quando visita o site*/
+a:visited {
+    color: darkred;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+/*quando clicar*/
+a:active {
+    color: yellow;
+}
+
+/*pseudoelementos sao com "::"*/
+
+a::after {   /* after = depois "depois de todos os links"*/
+    content: '[link]'; /*content = conteudo*/
+    color: darkgray;
+}
+
+/*before = depois*/
+a::before {
+    content: '[link]';
+    color: darkgrey;
+}

@@ -1,0 +1,15 @@
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\bin\Debug\net8.0\calculadora com menu interativo.exe
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\bin\Debug\net8.0\calculadora com menu interativo.deps.json
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\bin\Debug\net8.0\calculadora com menu interativo.runtimeconfig.json
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\bin\Debug\net8.0\calculadora com menu interativo.dll
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\bin\Debug\net8.0\calculadora com menu interativo.pdb
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\obj\Debug\net8.0\calculadora com menu interativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\obj\Debug\net8.0\calculadora com menu interativo.AssemblyInfoInputs.cache
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\obj\Debug\net8.0\calculadora com menu interativo.AssemblyInfo.cs
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\obj\Debug\net8.0\calculadora com menu interativo.csproj.CoreCompileInputs.cache
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\obj\Debug\net8.0\calculadora com menu interativo.sourcelink.json
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\obj\Debug\net8.0\calculadora com menu interativo.dll
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\obj\Debug\net8.0\refint\calculadora com menu interativo.dll
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\obj\Debug\net8.0\calculadora com menu interativo.pdb
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\obj\Debug\net8.0\calculadora com menu interativo.genruntimeconfig.cache
+C:\Users\figue\cursos\programador-tech\calculadora com menu interativo\calculadora com menu interativo\obj\Debug\net8.0\ref\calculadora com menu interativo.dll
