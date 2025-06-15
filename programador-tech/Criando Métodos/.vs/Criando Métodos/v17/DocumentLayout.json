@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\figue\\cursos\\programador-tech\\Criando M\u00E9todos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81EA032C-23A4-4784-9F4D-2E036FA40BB1}|Criando M\u00E9todos\\Criando M\u00E9todos.csproj|c:\\users\\figue\\cursos\\programador-tech\\criando m\u00E9todos\\criando m\u00E9todos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EA032C-23A4-4784-9F4D-2E036FA40BB1}|Criando M\u00E9todos\\Criando M\u00E9todos.csproj|solutionrelative:criando m\u00E9todos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EA032C-23A4-4784-9F4D-2E036FA40BB1}|Criando M\u00E9todos\\Criando M\u00E9todos.csproj|c:\\users\\figue\\cursos\\programador-tech\\criando m\u00E9todos\\criando m\u00E9todos\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EA032C-23A4-4784-9F4D-2E036FA40BB1}|Criando M\u00E9todos\\Criando M\u00E9todos.csproj|solutionrelative:criando m\u00E9todos\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\Criando M\u00E9todos\\Criando M\u00E9todos\\Conta.cs",
+              "RelativeDocumentMoniker": "Criando M\u00E9todos\\Conta.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\Criando M\u00E9todos\\Criando M\u00E9todos\\Conta.cs",
+              "RelativeToolTip": "Criando M\u00E9todos\\Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:47:21.311Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\Criando M\u00E9todos\\Criando M\u00E9todos\\Program.cs",
+              "RelativeDocumentMoniker": "Criando M\u00E9todos\\Program.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\Criando M\u00E9todos\\Criando M\u00E9todos\\Program.cs",
+              "RelativeToolTip": "Criando M\u00E9todos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T19:44:57.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

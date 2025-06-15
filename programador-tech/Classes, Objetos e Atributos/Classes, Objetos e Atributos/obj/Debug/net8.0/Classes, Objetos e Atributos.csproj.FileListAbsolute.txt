@@ -1,0 +1,15 @@
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\bin\Debug\net8.0\Classes, Objetos e Atributos.exe
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\bin\Debug\net8.0\Classes, Objetos e Atributos.deps.json
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\bin\Debug\net8.0\Classes, Objetos e Atributos.runtimeconfig.json
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\bin\Debug\net8.0\Classes, Objetos e Atributos.dll
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\bin\Debug\net8.0\Classes, Objetos e Atributos.pdb
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\obj\Debug\net8.0\Classes, Objetos e Atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\obj\Debug\net8.0\Classes, Objetos e Atributos.AssemblyInfoInputs.cache
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\obj\Debug\net8.0\Classes, Objetos e Atributos.AssemblyInfo.cs
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\obj\Debug\net8.0\Classes, Objetos e Atributos.csproj.CoreCompileInputs.cache
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\obj\Debug\net8.0\Classes, Objetos e Atributos.sourcelink.json
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\obj\Debug\net8.0\Classes, Objetos e Atributos.dll
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\obj\Debug\net8.0\refint\Classes, Objetos e Atributos.dll
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\obj\Debug\net8.0\Classes, Objetos e Atributos.pdb
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\obj\Debug\net8.0\Classes, Objetos e Atributos.genruntimeconfig.cache
+C:\Users\figue\cursos\programador-tech\Classes, Objetos e Atributos\Classes, Objetos e Atributos\obj\Debug\net8.0\ref\Classes, Objetos e Atributos.dll
