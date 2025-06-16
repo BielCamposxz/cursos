@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Criando_Métodos
 {
-    internal class Conta
+    public class Conta
     {
         // para criar um contrutor primeiro voce tem que colocar o modificador de acesso
         // e o construtor vai ser o nome da sua classe
