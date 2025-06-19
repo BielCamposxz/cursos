@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Criando Métodos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17e30d786239cf1f880b5572794a328d29ae4432")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18556f22e3bc3946209b9c0921d2af74eeb33898")]
 [assembly: System.Reflection.AssemblyProductAttribute("Criando Métodos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Criando Métodos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

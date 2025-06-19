@@ -18,22 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Conta.cs",
-              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\Criando M\u00E9todos\\Criando M\u00E9todos\\Conta.cs",
-              "RelativeDocumentMoniker": "Criando M\u00E9todos\\Conta.cs",
-              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\Criando M\u00E9todos\\Criando M\u00E9todos\\Conta.cs",
-              "RelativeToolTip": "Criando M\u00E9todos\\Conta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T19:47:21.311Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -42,9 +28,22 @@
               "RelativeDocumentMoniker": "Criando M\u00E9todos\\Program.cs",
               "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\Criando M\u00E9todos\\Criando M\u00E9todos\\Program.cs",
               "RelativeToolTip": "Criando M\u00E9todos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T19:44:57.032Z",
+              "WhenOpened": "2025-06-19T14:57:03.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\Criando M\u00E9todos\\Criando M\u00E9todos\\Conta.cs",
+              "RelativeDocumentMoniker": "Criando M\u00E9todos\\Conta.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\Criando M\u00E9todos\\Criando M\u00E9todos\\Conta.cs",
+              "RelativeToolTip": "Criando M\u00E9todos\\Conta.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:56:51.272Z",
               "EditorCaption": ""
             }
           ]

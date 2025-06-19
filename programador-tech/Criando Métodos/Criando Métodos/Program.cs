@@ -22,8 +22,6 @@ namespace criandoMetodos
                 Console.WriteLine(conta1.mostrarSaldo());
                 Console.WriteLine(conta1.numero);
             }
-
-
         }
     }
 }

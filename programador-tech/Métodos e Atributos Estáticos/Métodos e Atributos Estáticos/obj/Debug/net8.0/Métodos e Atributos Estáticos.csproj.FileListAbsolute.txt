@@ -1,0 +1,15 @@
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\bin\Debug\net8.0\Métodos e Atributos Estáticos.exe
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\bin\Debug\net8.0\Métodos e Atributos Estáticos.deps.json
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\bin\Debug\net8.0\Métodos e Atributos Estáticos.runtimeconfig.json
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\bin\Debug\net8.0\Métodos e Atributos Estáticos.dll
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\bin\Debug\net8.0\Métodos e Atributos Estáticos.pdb
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\obj\Debug\net8.0\Métodos e Atributos Estáticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\obj\Debug\net8.0\Métodos e Atributos Estáticos.AssemblyInfoInputs.cache
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\obj\Debug\net8.0\Métodos e Atributos Estáticos.AssemblyInfo.cs
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\obj\Debug\net8.0\Métodos e Atributos Estáticos.csproj.CoreCompileInputs.cache
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\obj\Debug\net8.0\Métodos e Atributos Estáticos.sourcelink.json
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\obj\Debug\net8.0\Métodos e Atributos Estáticos.dll
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\obj\Debug\net8.0\refint\Métodos e Atributos Estáticos.dll
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\obj\Debug\net8.0\Métodos e Atributos Estáticos.pdb
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\obj\Debug\net8.0\Métodos e Atributos Estáticos.genruntimeconfig.cache
+C:\Users\figue\cursos\programador-tech\Métodos e Atributos Estáticos\Métodos e Atributos Estáticos\obj\Debug\net8.0\ref\Métodos e Atributos Estáticos.dll

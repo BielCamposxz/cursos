@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Métodos e Atributos Estáticos/1.0.0": {
+        "runtime": {
+          "Métodos e Atributos Estáticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Métodos e Atributos Estáticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
