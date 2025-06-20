@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes Abstratas e Polimorfismo", "Classes Abstratas e Polimorfismo\Classes Abstratas e Polimorfismo.csproj", "{93413C5B-8EF5-4942-B30B-2AEDBE783074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93413C5B-8EF5-4942-B30B-2AEDBE783074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93413C5B-8EF5-4942-B30B-2AEDBE783074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93413C5B-8EF5-4942-B30B-2AEDBE783074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93413C5B-8EF5-4942-B30B-2AEDBE783074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3752C8AB-AF58-4A62-93A8-9163062A72DC}
+	EndGlobalSection
+EndGlobal
