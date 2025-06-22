@@ -1,5 +1,5 @@
 namespace projetoMVC.Models { 
-    class HomeTermos {
+    public class HomeTermos {
         public bool Termo {get; set;}
     }
 } 
