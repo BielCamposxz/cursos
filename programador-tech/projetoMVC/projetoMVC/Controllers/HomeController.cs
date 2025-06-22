@@ -19,7 +19,7 @@ namespace projetoMVC.Controllers
         public IActionResult Privacy()
         {
             HomeTermos termos = new HomeTermos();
-            termos.termo = true;
+            termos.Termo = true;
             return View(termos);
         }
 
