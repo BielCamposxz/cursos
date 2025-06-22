@@ -1,6 +1,12 @@
-﻿
+@model HomeTermos
 @{
     ViewData["Title"] = "Privacidade";
 }
 
 <p>Minha pagina de privacidade</p>
+
+@if(Model.Termo == true) {
+	<p>voce aceito os termos</p>
+} else {
+	<p>voce recusou os termos</p>
+}
