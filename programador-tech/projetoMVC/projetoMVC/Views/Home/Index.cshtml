@@ -1,0 +1,14 @@
+﻿<!-- aqui voce importa sua model -->
+<!-- so pode ter apenas uma model do view -->
+<!-- primeiro voce escreve "model" e depois o nome da model -->
+@model HomeModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+     <!-- para chamar os valores da model tem que escrever "Model" com M maiusculo "." o atributo -->
+    <h1 class="display-4">Bem vindo!!, @Model.Nome</h1>
+    <p>Meu primeiro site em MVC</p>
+    <span>Seu email e: @Model.Email</span>
+</div>

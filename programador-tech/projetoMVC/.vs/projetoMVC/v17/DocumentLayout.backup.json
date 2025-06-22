@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\figue\\cursos\\programador-tech\\projetoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEA5665-4350-4CDA-8F77-FD4B7AA0E74B}|projetoMVC\\projetoMVC.csproj|c:\\users\\figue\\cursos\\programador-tech\\projetomvc\\projetomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEA5665-4350-4CDA-8F77-FD4B7AA0E74B}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEA5665-4350-4CDA-8F77-FD4B7AA0E74B}|projetoMVC\\projetoMVC.csproj|c:\\users\\figue\\cursos\\programador-tech\\projetomvc\\projetomvc\\models\\hometermos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEA5665-4350-4CDA-8F77-FD4B7AA0E74B}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\models\\hometermos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEA5665-4350-4CDA-8F77-FD4B7AA0E74B}|projetoMVC\\projetoMVC.csproj|c:\\users\\figue\\cursos\\programador-tech\\projetomvc\\projetomvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CEA5665-4350-4CDA-8F77-FD4B7AA0E74B}|projetoMVC\\projetoMVC.csproj|solutionrelative:projetomvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\projetoMVC\\projetoMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "projetoMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\projetoMVC\\projetoMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "projetoMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T20:48:09.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeTermos.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\projetoMVC\\projetoMVC\\Models\\HomeTermos.cs",
+              "RelativeDocumentMoniker": "projetoMVC\\Models\\HomeTermos.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\projetoMVC\\projetoMVC\\Models\\HomeTermos.cs",
+              "RelativeToolTip": "projetoMVC\\Models\\HomeTermos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:47:42.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\projetoMVC\\projetoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "projetoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\projetoMVC\\projetoMVC\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "projetoMVC\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:34:32.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
