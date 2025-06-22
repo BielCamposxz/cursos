@@ -18,7 +18,9 @@ namespace projetoMVC.Controllers
 
         public IActionResult Privacy()
         {
-            return View();
+            HomeTermos termos = new HomeTermos();
+            termos.termo = true;
+            return View(termos);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
