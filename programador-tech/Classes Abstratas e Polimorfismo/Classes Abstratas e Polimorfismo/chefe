@@ -1,0 +1,20 @@
+using Sytem;
+
+namespace Poliformismo {
+
+class Chefe : Funcionario {
+ 
+public chefe(int salario, int aumento) base (salario, aumento){
+this.salario = 1500;
+this.aumento = 500
+}
+
+public override double receber(int valor) {
+  if(salario >= 2000) {
+     return salario - (salário/100)
+  else {
+    return salario + 500
+}
+}
+}
+}
