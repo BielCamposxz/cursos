@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Program.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Program.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Program.cs",
+              "RelativeToolTip": "ControleDeContatos\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:44:29.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\repositorio\\ContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\repositorio\\ContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\repositorio\\ContatoRepositorio.cs",
+              "RelativeToolTip": "ControleDeContatos\\repositorio\\ContatoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:31:51.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\repositorio\\IContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\repositorio\\IContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\repositorio\\IContatoRepositorio.cs",
+              "RelativeToolTip": "ControleDeContatos\\repositorio\\IContatoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:31:50.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:17:40.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
