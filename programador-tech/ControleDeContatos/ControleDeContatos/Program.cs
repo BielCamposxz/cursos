@@ -46,4 +46,4 @@ app.Run();
 // o asp-controller: serve para setar qual a controler vou usar
 // o asp-action: serve para setar a acao que vou usar
 // para a criacao da tabela tenho que ir em ferramentas>gerenciador de pacotes nuGet>console gerenciador de pacotes e colocar esse comando "Add-Migration CriandoTabelaContatos -Context BancoContext"
-// para a criacao da tabela e do banco tem que rodar o comando  Update-Database -Context BancoContext no mesmo local que rodei o outro
+// para a criacao da tabela e do banco tem que rodar o comando  Update-Database -Context BancoContext    no mesmo local que rodei o outro

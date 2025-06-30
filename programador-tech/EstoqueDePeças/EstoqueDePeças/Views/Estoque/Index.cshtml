@@ -1,0 +1,45 @@
+﻿@model List<EstoqueModel>
+@{
+    ViewData["Title"] = "Pagina inicial";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Estoque</h1>
+   
+    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <a class="btn btn-primary" asp-controller="Estoque" asp-action="Adicionar" role="button">Adicionar item no Estoque</a>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Produto</th>
+                <th scope="col">Em Estoque</th>
+                <th scope="col">Preço</th>
+                <th scope="col"> </th>
+            </tr>
+        </thead>
+        <tbody>
+            @if(Model != null && Model.Any())
+            {
+                foreach(EstoqueModel estoque in Model)
+                {
+                    <tr>
+                        <th scope="row">@estoque.id</th>
+                        <td>@estoque.Produto</td>
+                        <td>@estoque.EmEstoque</td>
+                        <td>@estoque.Preco</td>
+                        <td>
+                        <div class="btn-group" role="group">
+                            <a role="button" class="btn btn-primary" asp-controller="Estoque" asp-action="Editar">Editar</a>
+                            <a role="button" class="btn btn-danger" asp-controller="Estoque" asp-action="Apagar">Apagar</a>
+                        </div>
+                        </td>
+                    </tr>
+                    
+                }
+            }
+        </tbody>
+    </table>
+
+</div>

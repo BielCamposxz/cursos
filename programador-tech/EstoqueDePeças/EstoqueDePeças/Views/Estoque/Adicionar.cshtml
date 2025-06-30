@@ -1,0 +1,29 @@
+﻿@model EstoqueModel
+@{
+    ViewData["Title"] = "Adicionar produto";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Cadrastrar Produto</h1>
+</div>
+
+
+<form asp-controller="Estoque" asp-action="Adicionar" method="post">
+    <div class="mb-3">
+        <label for="Produto" class="form-label">Produto</label>
+        <input type="text" asp-for="Produto" class="form-control" id="Produto" placeholder="digite o nome do Produto">
+    </div>
+    <div class="mb-3">
+        <label for="EmEstoque" class="form-label">Em estoque</label>
+        <input type="text" asp-for="EmEstoque"  class="form-control" id="EmEstoque" placeholder="digite a quantidade de produtos em estoque">
+    </div>
+    <div class="mb-3">
+        <label for="Preco" class="form-label">Preco</label>
+        <input type="number" asp-for="Preco" class="form-control" id="Preco" placeholder="digite o preco do produto">
+    </div>
+    <div class="d-grid gap-2 d-md-block">
+        <button type="submit" class="btn btn-primary btn-block">Adicionar</button>
+        <a role="button" class="btn btn-secondary btn-" asp-controller="Estoque" asp-action="Index">Voltar</a>
+    </div>
+
+</form>
