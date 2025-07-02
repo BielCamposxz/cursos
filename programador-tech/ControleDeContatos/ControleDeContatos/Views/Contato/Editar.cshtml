@@ -1,4 +1,5 @@
-﻿@{
+﻿@model ContatoModel
+@{
     ViewData["Title"] = "Editar contato";
 }
 
@@ -6,18 +7,21 @@
     <h1 class="display-4">Editar Contato</h1>
 </div>
 
-<form>
+<form asp-action="Alterar" asp-controller="Contato" method="post">
+    <!-- isso aqui e para falar para qual id eu pegue e vou enviar para o banco -->
+    <!-- sem isso eu so estaria enviando o nome, email e celular -->
+    <input type="hidden" asp-for="Id" />
     <div class="mb-3">
         <label for="Nome" class="form-label">Nome</label>
-        <input type="text" class="form-control" id="Nome" placeholder="digite o nome do contato">
+        <input type="text" asp-for="Nome" class="form-control" id="Nome" placeholder="digite o nome do contato">
     </div>
     <div class="mb-3">
         <label for="Email" class="form-label">Email</label>
-        <input type="email" class="form-control" id="Email" placeholder="digite o email do contato">
+        <input type="email" asp-for="Email" class="form-control" id="Email" placeholder="digite o email do contato">
     </div>
     <div class="mb-3">
         <label for="Numero" class="form-label">Numero</label>
-        <input type="number" class="form-control" id="Numero" placeholder="digite o numero do contato">
+        <input type="number" asp-for="Celular" class="form-control" id="Numero" placeholder="digite o numero do contato">
     </div>
 
     <div class="d-grid gap-2 d-md-block">

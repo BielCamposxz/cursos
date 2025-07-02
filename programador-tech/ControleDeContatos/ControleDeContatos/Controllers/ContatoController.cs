@@ -25,14 +25,32 @@ namespace ControleDeContatos.Controllers
             return View();
         }
 
-        public IActionResult Editar()
+        public IActionResult Editar(int id)
         {
-            return View();
+            // pegando a pessoa no banco e colocando no input
+            ContatoModel contatoId = _contatoRepositorio.ListarPorId(id);
+            return View(contatoId);
         }
 
-        public IActionResult ApagarConfirmacao()
+        [HttpPost]
+        public IActionResult Alterar(ContatoModel contato)
         {
-            return View();
+            _contatoRepositorio.Alterar(contato);
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult ApagarConfirmacao(int id)
+        {
+            ContatoModel contatoId = _contatoRepositorio.ListarPorId(id);
+            return View(contatoId);
+        }
+
+        public IActionResult Apagar(int id)
+        {
+            _contatoRepositorio.Apagar(id);
+
+
+            return RedirectToAction("Index");
         }
 
         // fala que e um metodo post
@@ -40,7 +58,8 @@ namespace ControleDeContatos.Controllers
         [HttpPost]
         public IActionResult Criar(ContatoModel contato)
         {
-            _contatoRepositorio.(contato);
+            
+            _contatoRepositorio.Adicionar(contato);
             return RedirectToAction("Index");
         }
 

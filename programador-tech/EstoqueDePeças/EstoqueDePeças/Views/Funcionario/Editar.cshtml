@@ -1,5 +1,30 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model FuncionarioModel
 @{
+    ViewData["Title"] = "Adicionar Funcionario";
 }
+
+<div class="text-center">
+    <h1 class="display-4">Cadrastrar Funcionario</h1>
+</div>
+
+
+<form asp-action="Alterar" asp-controller="Funcionario" method="post">
+    <input type="hidden" asp-for="id"/>
+    <div class="mb-3">
+        <label for="Nome" class="form-label">Funcionario</label>
+        <input type="text" asp-for="Nome" class="form-control" id="Nome" placeholder="digite o nome do Funcionario">
+    </div>
+    <div class="mb-3">
+        <label for="Cargo" class="form-label">Cargo</label>
+        <input type="text" asp-for="Cargo" class="form-control" id="Cargo" placeholder="digite o cargo do funcionario">
+    </div>
+    <div class="mb-3">
+        <label for="Salario" class="form-label">Salario</label>
+        <input type="number" asp-for="salario" class="form-control" id="Salario" placeholder="digite o salario do funcionario">
+    </div>
+    <div class="d-grid gap-2 d-md-block">
+        <button type="submit" class="btn btn-primary btn-block" >Adicionar</button>
+        <a role="button" class="btn btn-secondary btn-" asp-controller="Funcionario" asp-action="Index">Voltar</a>
+    </div>
+
+</form>

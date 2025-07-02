@@ -1,5 +1,30 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model EstoqueModel
 @{
+    ViewData["Title"] = "Editar Produto";
 }
+
+<div class="text-center">
+    <h1 class="display-4">Editar Produto</h1>
+</div>
+
+
+<form asp-action="Alterar" asp-controller="Estoque" method="post">
+    <input type="hidden" asp-for="id" />
+    <div class="mb-3">
+        <label for="Produto" class="form-label">Produto</label>
+        <input type="text" asp-for="Produto" class="form-control" id="Produto" placeholder="digite o nome do produto">
+    </div>
+    <div class="mb-3">
+        <label for="Produto" class="form-label">Em Estoque</label>
+        <input type="text" asp-for="EmEstoque" class="form-control" id="Produto" placeholder="digite quantos tem em estoque">
+    </div>
+    <div class="mb-3">
+        <label for="preco" class="form-label">Preço</label>
+        <input type="number" asp-for="Preco" class="form-control" id="preco" placeholder="digite o valor do produto">
+    </div>
+    <div class="d-grid gap-2 d-md-block">
+        <button type="submit" class="btn btn-primary btn-block">Adicionar</button>
+        <a role="button" class="btn btn-secondary btn-" asp-controller="Funcionario" asp-action="Index">Voltar</a>
+    </div>
+
+</form>

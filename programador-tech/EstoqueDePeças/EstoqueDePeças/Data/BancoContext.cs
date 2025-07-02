@@ -11,5 +11,6 @@ namespace EstoqueDePeças.Data
         }
 
         public DbSet<EstoqueModel> Estoque { get; set;  }
+        public DbSet<FuncionarioModel> Funcionario { get; set; }
     }
 }

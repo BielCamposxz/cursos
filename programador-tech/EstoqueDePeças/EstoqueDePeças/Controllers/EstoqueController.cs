@@ -1,4 +1,5 @@
 ﻿using EstoqueDePeças.Data;
+using EstoqueDePeças.Migrations;
 using EstoqueDePeças.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -18,9 +19,30 @@ namespace EstoqueDePeças.Controllers
             return View(estoque);
         }
 
-        public IActionResult Editar()
+        public IActionResult Editar(int id)
         {
-            return View();
+            EstoqueModel estoque = ListarPorId(id);
+            return View(estoque);
+        }
+
+        [HttpPost]
+        public IActionResult Alterar(int id, EstoqueModel estoque)
+        {
+            EstoqueModel estoqueDB = ListarPorId(id);
+
+            estoqueDB.Produto = estoque.Produto;
+            estoqueDB.EmEstoque = estoque.EmEstoque;
+            estoqueDB.Preco = estoque.Preco;
+
+            _bancoContext.Estoque.Update(estoque);
+            _bancoContext.SaveChanges();
+            return RedirectToAction("Index");
+
+        }
+
+        public EstoqueModel ListarPorId(int id)
+        {
+            return _bancoContext.Estoque.FirstOrDefault(estoque => estoque.id == id);
         }
 
         public IActionResult Apagar()
