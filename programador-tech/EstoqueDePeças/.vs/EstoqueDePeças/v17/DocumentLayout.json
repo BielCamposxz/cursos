@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\figue\\cursos\\programador-tech\\EstoqueDePe\u00E7as\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|c:\\users\\figue\\cursos\\programador-tech\\estoquedepe\u00E7as\\estoquedepe\u00E7as\\views\\estoque\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|solutionrelative:estoquedepe\u00E7as\\views\\estoque\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|c:\\users\\figue\\cursos\\programador-tech\\estoquedepe\u00E7as\\estoquedepe\u00E7as\\views\\estoque\\apagar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|solutionrelative:estoquedepe\u00E7as\\views\\estoque\\apagar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|c:\\users\\figue\\cursos\\programador-tech\\estoquedepe\u00E7as\\estoquedepe\u00E7as\\views\\estoque\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|solutionrelative:estoquedepe\u00E7as\\views\\estoque\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|c:\\users\\figue\\cursos\\programador-tech\\estoquedepe\u00E7as\\estoquedepe\u00E7as\\views\\estoque\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|solutionrelative:estoquedepe\u00E7as\\views\\estoque\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|c:\\users\\figue\\cursos\\programador-tech\\estoquedepe\u00E7as\\estoquedepe\u00E7as\\controllers\\estoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|solutionrelative:estoquedepe\u00E7as\\controllers\\estoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|c:\\users\\figue\\cursos\\programador-tech\\estoquedepe\u00E7as\\estoquedepe\u00E7as\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|solutionrelative:estoquedepe\u00E7as\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|c:\\users\\figue\\cursos\\programador-tech\\estoquedepe\u00E7as\\estoquedepe\u00E7as\\views\\estoque\\apagar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|solutionrelative:estoquedepe\u00E7as\\views\\estoque\\apagar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|c:\\users\\figue\\cursos\\programador-tech\\estoquedepe\u00E7as\\estoquedepe\u00E7as\\views\\estoque\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|solutionrelative:estoquedepe\u00E7as\\views\\estoque\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|c:\\users\\figue\\cursos\\programador-tech\\estoquedepe\u00E7as\\estoquedepe\u00E7as\\models\\estoquemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|solutionrelative:estoquedepe\u00E7as\\models\\estoquemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|c:\\users\\figue\\cursos\\programador-tech\\estoquedepe\u00E7as\\estoquedepe\u00E7as\\controllers\\estoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|solutionrelative:estoquedepe\u00E7as\\controllers\\estoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|c:\\users\\figue\\cursos\\programador-tech\\estoquedepe\u00E7as\\estoquedepe\u00E7as\\views\\estoque\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|solutionrelative:estoquedepe\u00E7as\\views\\estoque\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|c:\\users\\figue\\cursos\\programador-tech\\estoquedepe\u00E7as\\estoquedepe\u00E7as\\views\\estoque\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FC9467-9512-427F-A0E2-A2FC806E2933}|EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as.csproj|solutionrelative:estoquedepe\u00E7as\\views\\estoque\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,37 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FuncionarioController.cs",
               "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as\\Controllers\\FuncionarioController.cs",
               "RelativeDocumentMoniker": "EstoqueDePe\u00E7as\\Controllers\\FuncionarioController.cs",
               "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as\\Controllers\\FuncionarioController.cs",
               "RelativeToolTip": "EstoqueDePe\u00E7as\\Controllers\\FuncionarioController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T01:13:00.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "EstoqueController.cs",
               "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as\\Controllers\\EstoqueController.cs",
               "RelativeDocumentMoniker": "EstoqueDePe\u00E7as\\Controllers\\EstoqueController.cs",
               "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as\\Controllers\\EstoqueController.cs",
               "RelativeToolTip": "EstoqueDePe\u00E7as\\Controllers\\EstoqueController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAcwCYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T00:55:16.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "EstoqueModel.cs",
               "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as\\Models\\EstoqueModel.cs",
               "RelativeDocumentMoniker": "EstoqueDePe\u00E7as\\Models\\EstoqueModel.cs",
@@ -94,33 +94,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as\\Views\\Estoque\\Editar.cshtml",
               "RelativeDocumentMoniker": "EstoqueDePe\u00E7as\\Views\\Estoque\\Editar.cshtml",
               "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as\\Views\\Estoque\\Editar.cshtml",
               "RelativeToolTip": "EstoqueDePe\u00E7as\\Views\\Estoque\\Editar.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-02T00:55:05.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Apagar.cshtml",
               "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as\\Views\\Estoque\\Apagar.cshtml",
               "RelativeDocumentMoniker": "EstoqueDePe\u00E7as\\Views\\Estoque\\Apagar.cshtml",
               "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as\\Views\\Estoque\\Apagar.cshtml",
               "RelativeToolTip": "EstoqueDePe\u00E7as\\Views\\Estoque\\Apagar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-02T00:55:04.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Adicionar.cshtml",
               "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\EstoqueDePe\u00E7as\\EstoqueDePe\u00E7as\\Views\\Estoque\\Adicionar.cshtml",
               "RelativeDocumentMoniker": "EstoqueDePe\u00E7as\\Views\\Estoque\\Adicionar.cshtml",

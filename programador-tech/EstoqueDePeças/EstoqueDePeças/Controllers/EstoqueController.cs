@@ -34,7 +34,7 @@ namespace EstoqueDePeças.Controllers
             estoqueDB.EmEstoque = estoque.EmEstoque;
             estoqueDB.Preco = estoque.Preco;
 
-            _bancoContext.Estoque.Update(estoque);
+            _bancoContext.Estoque.Update(estoqueDB);
             _bancoContext.SaveChanges();
             return RedirectToAction("Index");
 
@@ -45,9 +45,10 @@ namespace EstoqueDePeças.Controllers
             return _bancoContext.Estoque.FirstOrDefault(estoque => estoque.id == id);
         }
 
-        public IActionResult Apagar()
+        public IActionResult Apagar(int id)
         {
-            return View();
+            EstoqueModel estoque = ListarPorId(id);
+            return View(estoque);
         }
 
         public IActionResult Adicionar()
@@ -61,6 +62,15 @@ namespace EstoqueDePeças.Controllers
             _bancoContext.Estoque.Add(estoque);
             _bancoContext.SaveChanges();
             return RedirectToAction("Index");
+        }
+
+        public IActionResult ApagarDoBanco(int id)
+        {
+            EstoqueModel estoque = ListarPorId(id);
+            _bancoContext.Estoque.Remove(estoque);
+            _bancoContext.SaveChanges();
+            return RedirectToAction("Index");
+
         }
 
     }
