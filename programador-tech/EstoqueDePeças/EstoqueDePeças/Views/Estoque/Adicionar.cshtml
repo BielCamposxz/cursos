@@ -12,14 +12,19 @@
     <div class="mb-3">
         <label for="Produto" class="form-label">Produto</label>
         <input type="text" asp-for="Produto" class="form-control" id="Produto" placeholder="digite o nome do Produto">
+        @Html.ValidationMessageFor(x => x.Produto)
     </div>
     <div class="mb-3">
         <label for="EmEstoque" class="form-label">Em estoque</label>
         <input type="text" asp-for="EmEstoque"  class="form-control" id="EmEstoque" placeholder="digite a quantidade de produtos em estoque">
+        @Html.ValidationMessageFor(x => x.EmEstoque)
+
     </div>
     <div class="mb-3">
         <label for="Preco" class="form-label">Preco</label>
         <input type="number" asp-for="Preco" class="form-control" id="Preco" placeholder="digite o preco do produto">
+        @Html.ValidationMessageFor(x => x.Preco)
+
     </div>
     <div class="d-grid gap-2 d-md-block">
         <button type="submit" class="btn btn-primary btn-block">Adicionar</button>

@@ -16,17 +16,13 @@ builder.Services.AddEntityFrameworkSqlServer().AddDbContext<BancoContext>(o => o
 (builder.Configuration.GetConnectionString("DataBase")));
 // isso e para poder usar os metodos de ContatoRepositorio
 builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
+builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 var app = builder.Build();
 
 
-
-
-
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 

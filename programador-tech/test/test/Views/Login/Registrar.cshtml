@@ -1,0 +1,34 @@
+﻿@model UsuarioModel
+
+<div class="text-center">
+    <h1>Criar uma conta</h1>    
+</div>
+
+<form asp-action="Adicionar" asp-controller="Login" method="post">
+    <div class="mb-3">
+        <label for="Nome" class="form-label">Nome</label>
+        <input type="text" asp-for="Nome" class="form-control" id="Nome">
+    </div>
+    <div class="mb-3">
+        <label for="Email" class="form-label">Email</label>
+        <input type="email" asp-for="Email" class="form-control" id="Email">
+    </div>
+    <div class="mb-3">
+        <label for="Senha" class="form-label">Senha</label>
+        <input type="password" asp-for="Senha" class="form-control" id="Senha">
+    </div>
+    <div class="mb-3">
+        <label for="ConfirmarSenha" class="form-label">Confimar Senha</label>
+        <input type="password" class="form-control" id="ConfirmarSenha">
+    </div>
+
+    <div class="text-center">
+        <p>ja possui uma conta? <a asp-action="Index" asp-controller="Login">Register</a></p>
+    </div>
+    
+    <div class="text-center mb-3">
+        <button type="submit" disabled class="btn btn-primary" id="Criar">Criar</button>
+    </div>
+
+</form>
+

@@ -3,13 +3,29 @@
     ViewData["Title"] = "Pagina inicial";
 }
 
+@if (TempData["MessageSucesso"] != null)
+{
+    <div class="alert alert-success" role="alert">
+        <button type="button" class="btn btn-danger btn-sn close-alert text-center" arial-label="Close">X</button>
+        @TempData["MessageSucesso"]
+    </div>
+}
+
+@if (TempData["MessageErro"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        <button type="button" class="btn btn-danger btn-sn close-alert text-center" arial-label="Close">X</button>
+        @TempData["MessageErro"]
+    </div>
+}
+
 <div class="text-center">
     <h1 class="display-4">Funcionarios</h1>
 
     <div class="d-grid gap-2 d-md-flex justify-content-md-start">
         <a class="btn btn-primary" asp-controller="Funcionario" asp-action="Adicionar" role="button">Adicionar novo Funcionario</a>
     </div>
-    <table class="table">
+    <table class="table" id="tabela-funcionario">
         <thead>
             <tr>
                 <th scope="col">#</th>

@@ -13,6 +13,7 @@ namespace EstoqueDePeças.Controllers
         {
             _bancoContext = bancoContext;
         }
+
         public IActionResult Index()
         {
             List<EstoqueModel> estoque = _bancoContext.Estoque.ToList();
@@ -28,16 +29,29 @@ namespace EstoqueDePeças.Controllers
         [HttpPost]
         public IActionResult Alterar(int id, EstoqueModel estoque)
         {
-            EstoqueModel estoqueDB = ListarPorId(id);
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    EstoqueModel estoqueDB = ListarPorId(id);
 
-            estoqueDB.Produto = estoque.Produto;
-            estoqueDB.EmEstoque = estoque.EmEstoque;
-            estoqueDB.Preco = estoque.Preco;
+                    estoqueDB.Produto = estoque.Produto;
+                    estoqueDB.EmEstoque = estoque.EmEstoque;
+                    estoqueDB.Preco = estoque.Preco;
 
-            _bancoContext.Estoque.Update(estoqueDB);
-            _bancoContext.SaveChanges();
-            return RedirectToAction("Index");
+                    _bancoContext.Estoque.Update(estoqueDB);
+                    _bancoContext.SaveChanges();
+                    TempData["MessageSucesso"] = "produto atualizado com sucesso";
+                    return RedirectToAction("Index");
+                }
+                return View("Editar", estoque);
+            }
+            catch (Exception)
+            {
+                TempData["MessageErro"] = "Ops, algo deu errado";
+                return View("Editar", estoque);
 
+            }
         }
 
         public EstoqueModel ListarPorId(int id)
@@ -59,18 +73,52 @@ namespace EstoqueDePeças.Controllers
         [HttpPost]
         public IActionResult Adicionar(EstoqueModel estoque)
         {
-            _bancoContext.Estoque.Add(estoque);
-            _bancoContext.SaveChanges();
-            return RedirectToAction("Index");
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    _bancoContext.Estoque.Add(estoque);
+                    _bancoContext.SaveChanges();
+                    TempData["MessageSucesso"] = "Produto criado com sucesso";
+                    return RedirectToAction("Index");
+
+                }
+                return View(estoque);
+            }
+            catch (Exception)
+            {
+                    TempData["MessageErro"] = "Ops, algo deu errado";
+                    return RedirectToAction("Index");
+
+            }
         }
 
         public IActionResult ApagarDoBanco(int id)
         {
-            EstoqueModel estoque = ListarPorId(id);
-            _bancoContext.Estoque.Remove(estoque);
-            _bancoContext.SaveChanges();
-            return RedirectToAction("Index");
+            try
+            {
+                EstoqueModel estoque = ListarPorId(id);
+                var apagado = _bancoContext.Estoque.Remove(estoque);
+                _bancoContext.SaveChanges();
+                
 
+                if (apagado != null)
+                {
+                    TempData["MessageSucesso"] = "Produto apagado com sucesso";
+                }
+                else
+                {
+                    TempData["MessageErro"] = "Ops, algo deu errado";
+                }
+
+                return RedirectToAction("Index");
+
+            }
+            catch (Exception)
+            {
+                TempData["MessageErro"] = "Ops, algo deu errado";
+                return RedirectToAction("Index");
+            }
         }
 
     }

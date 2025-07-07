@@ -1,0 +1,20 @@
+﻿@model PessoasModel
+
+<form asp-action="Editar" asp-controller="Pessoas" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="mb-3">
+        <label for="Primeiro" class="form-label">Primeiro nome</label>
+        <input type="text" asp-for="Nome" class="form-control" id="Primeiro">
+    </div>
+    <div class="mb-3">
+        <label for="Segundo" class="form-label">Segundo Nome</label>
+        <input type="text" asp-for="Sobrenome" class="form-control" id="Segundo">
+    </div>
+    <div class="mb-3">
+        <label for="Email" class="form-label">Email</label>
+        <input type="email" asp-for="Email" class="form-control" id="Email">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+

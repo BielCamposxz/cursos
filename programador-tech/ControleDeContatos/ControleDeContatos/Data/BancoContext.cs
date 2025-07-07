@@ -15,5 +15,6 @@ namespace ControleDeContatos.Data
 
         // o dbset e para falar que vamos criar uma tabela e o <contatoModel> e a model que vai as colunas da tabela
         public DbSet<ContatoModel> Contatos { get; set; }
+        public DbSet<UsuarioModel> Usuarios { get; set; }
     }
 }

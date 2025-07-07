@@ -35,8 +35,24 @@ namespace ControleDeContatos.Controllers
         [HttpPost]
         public IActionResult Alterar(ContatoModel contato)
         {
-            _contatoRepositorio.Alterar(contato);
-            return RedirectToAction("Index");
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    _contatoRepositorio.Alterar(contato);
+                    TempData["MensagemSucesso"] = "Contato Editado com sucesso";
+                    return RedirectToAction("Index");
+
+                }
+
+                // fala que vai cair na view de Editar
+                return View("Editar", contato);
+            }
+            catch (Exception)
+            {
+                TempData["MensagemErro"] = "Ops, nao conseguimos Editar seu contato tente novamente";
+                return View("Editar", contato);
+            }
         }
 
         public IActionResult ApagarConfirmacao(int id)
@@ -47,10 +63,29 @@ namespace ControleDeContatos.Controllers
 
         public IActionResult Apagar(int id)
         {
-            _contatoRepositorio.Apagar(id);
+            try
+            {
 
+                bool apagado = _contatoRepositorio.Apagar(id);
 
-            return RedirectToAction("Index");
+                if(apagado)
+                {
+                    TempData["MensagemSucesso"] = "Contato apagado com sucesso";
+
+                }
+                else
+                {
+                    TempData["MensagemErro"] = "Ops, nao conseguimos apagar seu contato tente novamente";
+                }
+
+                return RedirectToAction("Index");
+            }
+            catch (Exception)
+            {
+                TempData["MensagemErro"] = "Ops, nao conseguimos apagar seu contato tente novamente";
+                return RedirectToAction("Index");
+
+            }
         }
 
         // fala que e um metodo post
@@ -58,9 +93,26 @@ namespace ControleDeContatos.Controllers
         [HttpPost]
         public IActionResult Criar(ContatoModel contato)
         {
-            
-            _contatoRepositorio.Adicionar(contato);
-            return RedirectToAction("Index");
+
+            try
+            {
+                // verifica os dataAnotation da a model e valida
+                if (ModelState.IsValid)
+                {
+                    _contatoRepositorio.Adicionar(contato);
+                    //  criar uma variavel temporaria com o nome de "MensagemSucesso"
+                    TempData["MensagemSucesso"] = "Contato cadrastrado com sucesso";
+                    return RedirectToAction("Index");
+                }
+
+                return View(contato);
+            }
+            catch (Exception)
+            {
+                    TempData["MensagemErro"] = "Ops, nao conseguimos cadrastrar seu contato tente novamente";
+                    return RedirectToAction("Index");
+            }
+
         }
 
     }

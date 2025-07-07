@@ -12,15 +12,19 @@
     <div class="mb-3">
         <label for="Nome" class="form-label">Nome</label>
         <input type="text" asp-for="Nome" class="form-control" id="Nome" placeholder="digite o nome do contato"> 
+        <!-- se der erro mostra a mensagem que configurei na model -->
+        @Html.ValidationMessageFor(x => x.Nome)
     </div>
     <div class="mb-3">
         <label for="Email" class="form-label">Email</label>
         <!-- o asp_for e para falar de qual input os dado vao ser enviados -->
-        <input type="email" asp-for="Email" class="form-control" id="Email" placeholder="digite o email do contato">
+        <input type="text" asp-for="Email" class="form-control" id="Email" placeholder="digite o email do contato">
+        @Html.ValidationMessageFor(x => x.Email)
     </div>
     <div class="mb-3">
         <label for="Numero" class="form-label">Numero</label>
         <input type="number" asp-for="Celular" class="form-control" id="Numero" placeholder="digite o numero do contato">
+         @Html.ValidationMessageFor(x => x.Celular)
     </div>
 
     <div class="d-grid gap-2 d-md-block">
