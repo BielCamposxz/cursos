@@ -1,0 +1,25 @@
+﻿@model CarolModel
+
+<form asp-action="EditarDia" asp-controller="Carol" method="post">
+    <input type="hidden" asp-for="Id">
+    <div class="mb-3">
+        <label for="Dia" class="form-label">Dia da semana</label>
+        <select class="form-select" aria-label="Default select example" asp-for="Dia">
+            <option value="">Selecionar dia da semana</option>
+            <option value="@DiaEnum.Segunda">Segunda</option>
+            <option value="@DiaEnum.Terca">Terca</option>
+            <option value="@DiaEnum.Quarta">Quarta</option>
+            <option value="@DiaEnum.Quinta">Quinta</option>
+            <option value="@DiaEnum.Sexta">Sexta</option>
+            <option value="@DiaEnum.Sabado">Sabado</option>
+            <option value="@DiaEnum.Domingo">Domingo</option>
+        </select>
+
+    </div>
+    <div class="mb-3">
+        <label for="Musculo" class="form-label">Musculo Treinado</label>
+        <input type="text" asp-for="Musculo" class="form-control" id="Musculo">
+    </div>
+   
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</form>

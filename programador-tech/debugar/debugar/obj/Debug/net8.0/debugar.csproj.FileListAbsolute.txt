@@ -1,0 +1,15 @@
+C:\Users\figue\cursos\programador-tech\debugar\debugar\obj\Debug\net8.0\debugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\cursos\programador-tech\debugar\debugar\obj\Debug\net8.0\debugar.AssemblyInfoInputs.cache
+C:\Users\figue\cursos\programador-tech\debugar\debugar\obj\Debug\net8.0\debugar.AssemblyInfo.cs
+C:\Users\figue\cursos\programador-tech\debugar\debugar\obj\Debug\net8.0\debugar.csproj.CoreCompileInputs.cache
+C:\Users\figue\cursos\programador-tech\debugar\debugar\obj\Debug\net8.0\debugar.sourcelink.json
+C:\Users\figue\cursos\programador-tech\debugar\debugar\bin\Debug\net8.0\debugar.exe
+C:\Users\figue\cursos\programador-tech\debugar\debugar\bin\Debug\net8.0\debugar.deps.json
+C:\Users\figue\cursos\programador-tech\debugar\debugar\bin\Debug\net8.0\debugar.runtimeconfig.json
+C:\Users\figue\cursos\programador-tech\debugar\debugar\bin\Debug\net8.0\debugar.dll
+C:\Users\figue\cursos\programador-tech\debugar\debugar\bin\Debug\net8.0\debugar.pdb
+C:\Users\figue\cursos\programador-tech\debugar\debugar\obj\Debug\net8.0\debugar.dll
+C:\Users\figue\cursos\programador-tech\debugar\debugar\obj\Debug\net8.0\refint\debugar.dll
+C:\Users\figue\cursos\programador-tech\debugar\debugar\obj\Debug\net8.0\debugar.pdb
+C:\Users\figue\cursos\programador-tech\debugar\debugar\obj\Debug\net8.0\debugar.genruntimeconfig.cache
+C:\Users\figue\cursos\programador-tech\debugar\debugar\obj\Debug\net8.0\ref\debugar.dll

@@ -3,16 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\filter\\paginarestritasomenteadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\filter\\paginarestritasomenteadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\filter\\paginaparausuariologado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\filter\\paginaparausuariologado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\helper\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\helper\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|c:\\users\\figue\\cursos\\programador-tech\\controledecontatos\\controledecontatos\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A962A84B-7A43-4319-A5EE-8AC4FCEEC76E}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +94,269 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "ControleDeContatos\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "ControleDeContatos\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAABYAAAAAAAAAAAAWwAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-07-07T00:39:07.933Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:27:01.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaginaRestritaSomenteAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\filter\\PaginaRestritaSomenteAdmin.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\filter\\PaginaRestritaSomenteAdmin.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\filter\\PaginaRestritaSomenteAdmin.cs",
+              "RelativeToolTip": "ControleDeContatos\\filter\\PaginaRestritaSomenteAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:26:25.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaginaParaUsuarioLogado.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\filter\\PaginaParaUsuarioLogado.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\filter\\PaginaParaUsuarioLogado.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\filter\\PaginaParaUsuarioLogado.cs",
+              "RelativeToolTip": "ControleDeContatos\\filter\\PaginaParaUsuarioLogado.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:26:05.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sessao.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\helper\\Sessao.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\helper\\Sessao.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\helper\\Sessao.cs",
+              "RelativeToolTip": "ControleDeContatos\\helper\\Sessao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:07:14.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\repositorio\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\repositorio\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\repositorio\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "ControleDeContatos\\repositorio\\IUsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:28:26.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:27:40.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T13:48:22.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ControleDeContatos\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ControleDeContatos\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-10T13:37:31.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T12:59:55.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:32:13.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "ControleDeContatos\\repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:28:27.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "ControleDeContatos\\Models\\UsuarioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:31:21.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T14:34:24.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T00:38:11.816Z",
+              "WhenOpened": "2025-08-10T13:21:23.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Program.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Program.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Program.cs",
+              "RelativeToolTip": "ControleDeContatos\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:48:36.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Views\\Usuario\\Index.cshtml",
-              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Usuario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Views\\Usuario\\Index.cshtml",
-              "RelativeToolTip": "ControleDeContatos\\Views\\Usuario\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAADwvygAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T00:35:10.882Z",
+              "DocumentIndex": 7,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Models\\LoginModel.cs",
+              "RelativeToolTip": "ControleDeContatos\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:37:38.703Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T14:35:16.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ControleDeContatos\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ControleDeContatos\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-10T13:18:16.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\repositorio\\ContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\repositorio\\ContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\repositorio\\ContatoRepositorio.cs",
+              "RelativeToolTip": "ControleDeContatos\\repositorio\\ContatoRepositorio.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T17:31:59.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Criar.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Criar.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Criar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T19:46:48.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\libman.json",
+              "RelativeDocumentMoniker": "ControleDeContatos\\libman.json",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\ControleDeContatos\\ControleDeContatos\\libman.json",
+              "RelativeToolTip": "ControleDeContatos\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-26T14:34:12.365Z"
             }
           ]
         }

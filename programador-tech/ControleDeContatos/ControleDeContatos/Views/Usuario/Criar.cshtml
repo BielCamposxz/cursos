@@ -35,10 +35,12 @@
     <div class="mb-3">
         <label for="Perfil" class="form-label">Perfil</label>
         <select class="form-select" aria-label="Default select example" asp-for="Perfil">
-            <option value="0">Selecionar Perfil</option>
-            <option value="@PerfilEnum.Admin">Administrador</option>
+            <option value="">Selecionar Perfil</option>
+            <option value="@PerfilEnum.Administrador">Administrador</option>
             <option value="@PerfilEnum.Padrao">Padrao</option>
         </select>
+        @Html.ValidationMessageFor(x => x.Perfil)
+
     </div>
 
     <div class="d-grid gap-2 d-md-block">

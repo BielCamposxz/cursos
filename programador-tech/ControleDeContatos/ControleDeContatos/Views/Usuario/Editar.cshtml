@@ -1,0 +1,47 @@
+﻿@using ControleDeContatos.enums
+@model UsuarioModel
+@{
+    ViewData["Title"] = "Criar Usuario";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Cadrastrar Usuario</h1>
+</div>
+
+<!-- para definir o metodo que vai enviar os dados e o metodo post -->
+<form asp-controller="Usuario" asp-action="Alterar" method="post">
+    <input type="hidden" asp-for="Id"/>
+    <div class="mb-3">
+        <label for="Nome" class="form-label">Nome</label>
+        <input type="text" asp-for="Nome" class="form-control" id="Nome" placeholder="digite o nome do usuario">
+        <!-- se der erro mostra a mensagem que configurei na model -->
+        @Html.ValidationMessageFor(x => x.Nome)
+    </div>
+    <div class="mb-3">
+        <label for="Email" class="form-label">Email</label>
+        <!-- o asp_for e para falar de qual input os dado vao ser enviados -->
+        <input type="text" asp-for="Email" class="form-control" id="Email" placeholder="digite o email do usuario">
+        @Html.ValidationMessageFor(x => x.Email)
+    </div>
+    <div class="mb-3">
+        <label for="Login" class="form-label">Login</label>
+        <input type="text" asp-for="Login" class="form-control" id="Login" placeholder="digite o login do usuario">
+        @Html.ValidationMessageFor(x => x.Login)
+    </div>
+    <div class="mb-3">
+        <label for="Perfil" class="form-label">Perfil</label>
+        <select class="form-select" aria-label="Default select example" asp-for="Perfil">
+            <option value="">Selecionar Perfil</option>
+            <option value="@PerfilEnum.Administrador">Administrador</option>
+            <option value="@PerfilEnum.Padrao">Padrao</option>
+        </select>
+        @Html.ValidationMessageFor(x => x.Perfil)
+
+    </div>
+
+    <div class="d-grid gap-2 d-md-block">
+        <button type="submit" class="btn btn-primary btn-block">Adicionar</button>
+        <a role="button" class="btn btn-secondary btn-" asp-controller="Usuario" asp-action="Index">Voltar</a>
+    </div>
+
+</form>

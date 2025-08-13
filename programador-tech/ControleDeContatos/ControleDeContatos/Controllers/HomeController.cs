@@ -1,9 +1,12 @@
-using System.Diagnostics;
+using ControleDeContatos.filter;
 using ControleDeContatos.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace ControleDeContatos.Controllers
 {
+    // isso aqui fala que ele so vai poder ter acesso a essa controller se o usuario estiver logado
+    [PaginaParaUsuarioLogado]
     public class HomeController : Controller
     {
 
@@ -13,6 +16,11 @@ namespace ControleDeContatos.Controllers
         }
 
         public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        public IActionResult Bloqueio()
         {
             return View();
         }

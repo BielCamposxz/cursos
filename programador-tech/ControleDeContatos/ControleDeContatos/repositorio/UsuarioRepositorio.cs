@@ -13,6 +13,12 @@ namespace ControleDeContatos.repositorio
             _bancoContext = bancoContext;
         }
 
+        public UsuarioModel BuscarPorLogin(string login)
+        {
+            return _bancoContext.Usuarios.FirstOrDefault(usuario => usuario.Login.ToUpper() == login.ToLower());
+        }
+
+
         public UsuarioModel Adicionar(UsuarioModel usuario)
         {
             // pega a data da hora que isso for chamado

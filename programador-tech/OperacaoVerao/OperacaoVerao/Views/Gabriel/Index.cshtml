@@ -1,0 +1,36 @@
+﻿@model List<GabrielModel>
+
+<div class="d-grid gap-2 d-md-flex justify-content-md-start">
+    <a class="btn btn-primary" role="button" asp-controller="Gabriel" asp-action="Marcar">Marcar Dia</a>
+</div>
+<br>
+<table class="table table-striped table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>#</th>
+            <th>Dia</th>
+            <th>Treinou?</th>
+            <th>Músculos</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model != null)
+        {
+            foreach(GabrielModel gabriel in Model)
+            {
+                <tr>
+                    <td>@gabriel.Id  </td>
+
+                    <td>@gabriel.Dia</td>
+                    @if(gabriel.treinou == true) { 
+                        <td><i class="bi bi-check text-success"></i></td>
+                    } else {
+                        <td><i class="bi bi-x text-danger"></i></td>
+                    }
+                    <td>@gabriel.Musculo</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+                    

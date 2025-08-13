@@ -47,6 +47,23 @@ namespace ControleDeContatos.Migrations
                     b.ToTable("Contatos");
                 });
 
+            modelBuilder.Entity("ControleDeContatos.Models.Test", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+
+                    b.Property<string>("nome")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("id");
+
+                    b.ToTable("Test");
+                });
+
             modelBuilder.Entity("ControleDeContatos.Models.UsuarioModel", b =>
                 {
                     b.Property<int>("Id")

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|c:\\users\\figue\\cursos\\programador-tech\\operacaoverao\\operacaoverao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|solutionrelative:operacaoverao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|c:\\users\\figue\\cursos\\programador-tech\\operacaoverao\\operacaoverao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|solutionrelative:operacaoverao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|c:\\users\\figue\\cursos\\programador-tech\\operacaoverao\\operacaoverao\\views\\shared\\_layouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|solutionrelative:operacaoverao\\views\\shared\\_layouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|c:\\users\\figue\\cursos\\programador-tech\\operacaoverao\\operacaoverao\\views\\shared\\_layoutcarol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|solutionrelative:operacaoverao\\views\\shared\\_layoutcarol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|c:\\users\\figue\\cursos\\programador-tech\\operacaoverao\\operacaoverao\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|solutionrelative:operacaoverao\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|c:\\users\\figue\\cursos\\programador-tech\\operacaoverao\\operacaoverao\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|solutionrelative:operacaoverao\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|c:\\users\\figue\\cursos\\programador-tech\\operacaoverao\\operacaoverao\\helper\\sessaodousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|solutionrelative:operacaoverao\\helper\\sessaodousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|c:\\users\\figue\\cursos\\programador-tech\\operacaoverao\\operacaoverao\\helper\\isessaodousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|solutionrelative:operacaoverao\\helper\\isessaodousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|c:\\users\\figue\\cursos\\programador-tech\\operacaoverao\\operacaoverao\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7B86F66F-9922-4DA3-A760-F6A05D593B10}|OperacaoVerao\\OperacaoVerao.csproj|solutionrelative:operacaoverao\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "OperacaoVerao\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "OperacaoVerao\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:17:40.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\Program.cs",
+              "RelativeDocumentMoniker": "OperacaoVerao\\Program.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\Program.cs*",
+              "RelativeToolTip": "OperacaoVerao\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T01:09:19.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISessaoDoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\helper\\ISessaoDoUsuario.cs",
+              "RelativeDocumentMoniker": "OperacaoVerao\\helper\\ISessaoDoUsuario.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\helper\\ISessaoDoUsuario.cs",
+              "RelativeToolTip": "OperacaoVerao\\helper\\ISessaoDoUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T00:58:08.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessaoDoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\helper\\SessaoDoUsuario.cs",
+              "RelativeDocumentMoniker": "OperacaoVerao\\helper\\SessaoDoUsuario.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\helper\\SessaoDoUsuario.cs",
+              "RelativeToolTip": "OperacaoVerao\\helper\\SessaoDoUsuario.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T00:55:47.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutCarol.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\Views\\Shared\\_LayoutCarol.cshtml",
+              "RelativeDocumentMoniker": "OperacaoVerao\\Views\\Shared\\_LayoutCarol.cshtml",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\Views\\Shared\\_LayoutCarol.cshtml",
+              "RelativeToolTip": "OperacaoVerao\\Views\\Shared\\_LayoutCarol.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T00:48:18.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutHome.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\Views\\Shared\\_LayoutHome.cshtml",
+              "RelativeDocumentMoniker": "OperacaoVerao\\Views\\Shared\\_LayoutHome.cshtml",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\Views\\Shared\\_LayoutHome.cshtml",
+              "RelativeToolTip": "OperacaoVerao\\Views\\Shared\\_LayoutHome.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T00:48:10.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OperacaoVerao\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OperacaoVerao\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T00:47:43.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "OperacaoVerao\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "OperacaoVerao\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T00:41:26.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "OperacaoVerao\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\OperacaoVerao\\OperacaoVerao\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "OperacaoVerao\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-13T00:39:49.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

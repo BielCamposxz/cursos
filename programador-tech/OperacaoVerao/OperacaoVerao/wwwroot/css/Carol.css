@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    background-color: #8F87F1;
+}
+
+
+
+/* CSS customizado para dar uma estética feminina */
+.table-feminina thead th {
+    background-color: #C68EFD; /* rosa-choque */
+    color: #E0FFFF;
+    border: 1px solid white;
+}
+
+.table-feminina.table-striped > tbody > tr:nth-child(odd) > td,
+.table-feminina.table-striped > tbody > tr:nth-child(odd) > th {
+    background-color: #FED2E2; /* rosa claro */
+}
+
+.table-feminina.table-striped > tbody > tr:nth-child(even) > td,
+.table-feminina.table-striped > tbody > tr:nth-child(even) > th {
+    background-color: #E9A5F1; /* lilás suave */
+}
+
+.table-feminina.table-hover > tbody > tr:hover > td,
+.table-feminina.table-hover > tbody > tr:hover > th {
+  background-color: #ff6b81 !important; /* vermelho rosado ao passar o mouse */
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.marcar {
+    border: none;
+    background-color: #C68EFD;
+}

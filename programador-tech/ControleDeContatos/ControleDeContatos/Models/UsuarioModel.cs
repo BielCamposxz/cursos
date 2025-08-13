@@ -28,5 +28,10 @@ namespace ControleDeContatos.Models
         [Required(ErrorMessage = "Selecione um valor")]
         public PerfilEnum Perfil { get; set; }
 
+        public bool SenhaValida(string senha)
+        {
+            return Senha == senha;
+        }
+
     }
 }

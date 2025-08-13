@@ -1,4 +1,5 @@
 using ControleDeContatos.Data;
+using ControleDeContatos.helper;
 using ControleDeContatos.repositorio;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -14,9 +15,20 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddEntityFrameworkSqlServer().AddDbContext<BancoContext>(o => o.UseSqlServer
 // aqui estou pegando a string de conecao do arquivo "appsettings.json" com a chave "DataBase"
 (builder.Configuration.GetConnectionString("DataBase")));
+// isso aqui e para configuerar a injecao de dependecias com quando chamar a interface "IHttpContextAccessor" vai chamar a classe junto
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>(); 
 // isso e para poder usar os metodos de ContatoRepositorio
 builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
 builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
+// isso aqui e para chamar a interface e a classe que cria, busca e remove a sessao do usuario
+builder.Services.AddScoped<ISessao, Sessao>();
+
+// essa e a contfiguracao os cookies na sessao
+builder.Services.AddSession(o =>
+{
+    o.Cookie.HttpOnly = true;
+    o.Cookie.IsEssential = true;
+});
 var app = builder.Build();
 
 
@@ -32,10 +44,12 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+// isso e para habilitar as secoes dentro do projeto
+app.UseSession();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Login}/{action=Index}/{id?}");
 
 app.Run();
 
