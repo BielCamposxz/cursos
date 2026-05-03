@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\figue\\cursos\\programador-tech\\Classes Abstratas e Polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93413C5B-8EF5-4942-B30B-2AEDBE783074}|Classes Abstratas e Polimorfismo\\Classes Abstratas e Polimorfismo.csproj|c:\\users\\figue\\cursos\\programador-tech\\classes abstratas e polimorfismo\\classes abstratas e polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93413C5B-8EF5-4942-B30B-2AEDBE783074}|Classes Abstratas e Polimorfismo\\Classes Abstratas e Polimorfismo.csproj|solutionrelative:classes abstratas e polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\Classes Abstratas e Polimorfismo\\Classes Abstratas e Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Classes Abstratas e Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\Classes Abstratas e Polimorfismo\\Classes Abstratas e Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Classes Abstratas e Polimorfismo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:22:34.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

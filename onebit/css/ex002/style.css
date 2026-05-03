@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+li {
+    list-style-type: none;
+    background-color: rgb(39, 39, 39);
+    margin: 10px;
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+    border: 4px solid transparent;
+    display: inline-block;
+    color: white
+}
+
+li:hover {
+    background-color: rgb(74, 74, 74);
+    cursor: pointer;
+    border: 4px solid blue;
+}
+
+.hi {
+    display: none;
+}

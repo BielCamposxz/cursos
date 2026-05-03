@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\figue\\cursos\\programador-tech\\operadores logicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50577286-D7C5-49CC-99D8-F9777127A6D0}|operadores logicos\\operadores logicos.csproj|c:\\users\\figue\\cursos\\programador-tech\\operadores logicos\\operadores logicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50577286-D7C5-49CC-99D8-F9777127A6D0}|operadores logicos\\operadores logicos.csproj|solutionrelative:operadores logicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\operadores logicos\\operadores logicos\\Program.cs",
+              "RelativeDocumentMoniker": "operadores logicos\\Program.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\operadores logicos\\operadores logicos\\Program.cs*",
+              "RelativeToolTip": "operadores logicos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T00:33:49.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

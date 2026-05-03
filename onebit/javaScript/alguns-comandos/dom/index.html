@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <label for="onChange">mudanca de valor</label>
+        <!-- quando mudar o valor -->
+        <input type="text" onchange="console.log('mundando o valor')">
+    </div>
+    <div>
+        <label for="onFocus">entrada de foco</label>
+        <!-- quando focar no elemento -->
+        <input type="text" onfocus="console.log('foco no elemento')">
+    </div>
+    <div>
+        <label for="onBlue">saida do foco</label>
+        <!-- quando sair do foco -->
+        <input type="text" onblur="console.log('saindo do foco')">
+    </div>
+
+    <ul id="contact-list">
+        <li>
+            <label for="contact1">Contato 1</label>
+            <input type="text" id="contact1" name="contact1" class="contact-input">
+        </li>
+        <li>
+            <label for="contact2">Contato 2</label>
+            <input type="text" id="contact2" name="contact2" class="contact-input">
+        </li>
+        <li>
+            <label for="contact3">Contato 3</label>
+            <input type="text" id="contact3" name="contact3" class="contact-input">
+        </li>
+        <button onclick="show()">
+            Exibir
+        </button>
+    </ul>
+
+    <button onclick="addInput()">Adicionar Input</button>
+
+    <ul id="inputs"></ul>
+</body>
+<script src="script.js"></script>
+</html>

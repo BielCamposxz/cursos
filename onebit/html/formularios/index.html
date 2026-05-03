@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- pesquisa no lugar onde foi colocado a url -->
+    <form action="http://google.com/search">
+        <!-- seleciona a caixa de texto -->
+        <label for="go">pesquisar no google</label>
+        <input type="text" name="q" id="go">
+        <!-- envia e procura oque foi escrito -->
+        <button type="submit">pesquisar</button>
+    </form>
+    <hr>
+    <form>
+        <!-- campo de texto -->
+        <label for="nome">nome</label>
+        <!-- o formulario nao envia se nao for prenchido -->
+        <input type="text" id="nome" name="nome" required>
+        <br><br>
+<hr>
+        <!-- campo de email -->
+        <label for="email">email</label>
+        <input type="email" id="email" name="email">
+        <br><br>
+<hr>
+        <!-- campo de senha -->
+        <label for="senha">senha</label>
+        <input type="password" id="senha" name="senha">
+        <br><br>
+<hr>
+        <!-- campo de selacao -->
+        <label>genero</label>
+        <input type="radio" name="genero" id="masculino" value="m">
+        <label for="masculino">masculino</label>
+        <input type="radio" name="genero" id="feminino" value="f">
+        <label for="feminino">feminino</label>
+        <br><br>
+<hr>
+        <!-- campo de selecao multipla -->
+         <label>interesses</label>
+        <input type="checkbox" id="back-end" value="back-end" name="interesses">
+        <label for="back-end">back-end</label>
+
+        <input type="checkbox" name="interesses" id="front-end" value="front-end">
+        <label for="front-end">front-end</label>
+
+        <input type="checkbox" name="interesses" id="mobile" value="mobile">
+        <label for="mobile">mobile</label>
+        <br><br>
+        <hr>
+        <!-- campo de data -->
+        <label for="data">data de nacimento</label>
+        <input type="date" id="data" name="nascimento">
+        <br><br>
+        <hr>
+        <!-- campo de arquivo (escolhe um arquivo) -->
+        <label for="up">foto de perfil</label>
+        <input type="file" id="up" name="arquivo">
+        <br><br>
+
+        <!-- campo de caixa de selecao -->
+        <label for="situacao">situacao atual</label>
+        <select name="situacao" id="situacao">
+            <!-- desabilita uma das opicoes -->
+            <!-- faz aparecer essa opicao no comecao -->
+            <option value="" selected disabled>selecione uma das opicaoes</option>
+            <option value="estudante">estudado para se um programador</option>
+            <option value="estagiario">atuando como estagiario</option>
+            <option value="junior">atuando como desenvolvedor junior</option>
+            <option value="pleno">atuando como desenvolvedor pleno</option>
+            <option value="senior">atuando como desenvolvedor senior</option>
+        </select>
+        <br><br>
+
+        <!-- campo de area de multiplas linhas -->
+        <label for="sobre">informacoes sobre mim</label> <br>
+        <!-- cols = numero de letras e numeros na horizontal/reto -->
+        <!-- rows = quantidade de linhas -->
+        <textarea name="informacoes" id="sobre" cols="40" rows="6"></textarea>
+        <button type="submit">enviar</button>
+    </form>
+</body>
+</html>

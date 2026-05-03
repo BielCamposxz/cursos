@@ -1,0 +1,15 @@
+div {
+    background-color: lightgray;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    /*todas as div na mesma linha*/
+    display: inline-block;
+}
+
+/*os ":" sao uma pseudoclasse*/
+
+div:hover {
+    background-color: yellow;
+}

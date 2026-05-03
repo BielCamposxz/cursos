@@ -1,0 +1,15 @@
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\bin\Debug\net8.0\tabudada.exe
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\bin\Debug\net8.0\tabudada.deps.json
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\bin\Debug\net8.0\tabudada.runtimeconfig.json
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\bin\Debug\net8.0\tabudada.dll
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\bin\Debug\net8.0\tabudada.pdb
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\obj\Debug\net8.0\tabudada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\obj\Debug\net8.0\tabudada.AssemblyInfoInputs.cache
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\obj\Debug\net8.0\tabudada.AssemblyInfo.cs
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\obj\Debug\net8.0\tabudada.csproj.CoreCompileInputs.cache
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\obj\Debug\net8.0\tabudada.sourcelink.json
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\obj\Debug\net8.0\tabudada.dll
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\obj\Debug\net8.0\refint\tabudada.dll
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\obj\Debug\net8.0\tabudada.pdb
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\obj\Debug\net8.0\tabudada.genruntimeconfig.cache
+C:\Users\figue\cursos\programador-tech\tabudada\tabudada\obj\Debug\net8.0\ref\tabudada.dll

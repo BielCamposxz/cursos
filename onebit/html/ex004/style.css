@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(6, 182, 182);
+}
+
+.basico {
+    color: green;
+}
+
+.intermediario {
+    color: yellow;
+}
+
+.avancado {
+    color: red;
+}
+
+.destaque {
+    background-color: black;
+}
+
+.html {
+    background-color: orangered;
+}

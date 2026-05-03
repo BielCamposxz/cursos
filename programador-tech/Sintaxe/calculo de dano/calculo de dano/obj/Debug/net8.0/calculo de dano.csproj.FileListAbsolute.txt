@@ -1,0 +1,15 @@
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\bin\Debug\net8.0\calculo de dano.exe
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\bin\Debug\net8.0\calculo de dano.deps.json
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\bin\Debug\net8.0\calculo de dano.runtimeconfig.json
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\bin\Debug\net8.0\calculo de dano.dll
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\bin\Debug\net8.0\calculo de dano.pdb
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\obj\Debug\net8.0\calculo de dano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\obj\Debug\net8.0\calculo de dano.AssemblyInfoInputs.cache
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\obj\Debug\net8.0\calculo de dano.AssemblyInfo.cs
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\obj\Debug\net8.0\calculo de dano.csproj.CoreCompileInputs.cache
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\obj\Debug\net8.0\calculo de dano.sourcelink.json
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\obj\Debug\net8.0\calculo de dano.dll
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\obj\Debug\net8.0\refint\calculo de dano.dll
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\obj\Debug\net8.0\calculo de dano.pdb
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\obj\Debug\net8.0\calculo de dano.genruntimeconfig.cache
+C:\Users\figue\cursos\programador-tech\calculo de dano\calculo de dano\obj\Debug\net8.0\ref\calculo de dano.dll

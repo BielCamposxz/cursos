@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #232323;
+    color: white;
+    /* o px em munitores de diferentes tamanhos pode fica maior ou menor entao nao e bom usar em tudo so em valores pequenos */
+    padding: 10px;
+}
+
+section {
+    height: 75px;
+}
+
+.box {
+    border: 1px solid #232323;
+    display: inline-block;
+    margin-top: 20px;
+    width: 75px;
+}
+
+.px {
+    height: 10px;
+}
+
+/* root element nao muda nos munitores*/
+.rem {
+    height: 3rem;
+}
+
+/* muda o tamanho em relacao o tamanho da fonte usada */
+.em {
+    font-size: 32px;
+    height: 2em;
+}
+
+.prcnt-33 {
+    height: 33%;
+}
+
+.prcnt-66 {
+    height: 66%;
+}
+
+.prcnt-100 {
+    height: 100%;
+}
+
+/* viewport heigth */
+.vh {
+    height: 30vh;
+}
+
+/* viewport width */
+.vw {
+    width: 50vh;
+}

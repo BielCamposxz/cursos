@@ -1,0 +1,14 @@
+C:\Users\figue\C#\writeline e readline\writeline e readline\obj\Debug\net8.0\writeline e readline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\C#\writeline e readline\writeline e readline\obj\Debug\net8.0\writeline e readline.AssemblyInfoInputs.cache
+C:\Users\figue\C#\writeline e readline\writeline e readline\obj\Debug\net8.0\writeline e readline.AssemblyInfo.cs
+C:\Users\figue\C#\writeline e readline\writeline e readline\obj\Debug\net8.0\writeline e readline.csproj.CoreCompileInputs.cache
+C:\Users\figue\C#\writeline e readline\writeline e readline\bin\Debug\net8.0\writeline e readline.exe
+C:\Users\figue\C#\writeline e readline\writeline e readline\bin\Debug\net8.0\writeline e readline.deps.json
+C:\Users\figue\C#\writeline e readline\writeline e readline\bin\Debug\net8.0\writeline e readline.runtimeconfig.json
+C:\Users\figue\C#\writeline e readline\writeline e readline\bin\Debug\net8.0\writeline e readline.dll
+C:\Users\figue\C#\writeline e readline\writeline e readline\bin\Debug\net8.0\writeline e readline.pdb
+C:\Users\figue\C#\writeline e readline\writeline e readline\obj\Debug\net8.0\writeline e readline.dll
+C:\Users\figue\C#\writeline e readline\writeline e readline\obj\Debug\net8.0\refint\writeline e readline.dll
+C:\Users\figue\C#\writeline e readline\writeline e readline\obj\Debug\net8.0\writeline e readline.pdb
+C:\Users\figue\C#\writeline e readline\writeline e readline\obj\Debug\net8.0\writeline e readline.genruntimeconfig.cache
+C:\Users\figue\C#\writeline e readline\writeline e readline\obj\Debug\net8.0\ref\writeline e readline.dll

@@ -1,0 +1,15 @@
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\bin\Debug\net8.0\tratamento de erros.exe
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\bin\Debug\net8.0\tratamento de erros.deps.json
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\bin\Debug\net8.0\tratamento de erros.runtimeconfig.json
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\bin\Debug\net8.0\tratamento de erros.dll
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\bin\Debug\net8.0\tratamento de erros.pdb
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\obj\Debug\net8.0\tratamento de erros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\obj\Debug\net8.0\tratamento de erros.AssemblyInfoInputs.cache
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\obj\Debug\net8.0\tratamento de erros.AssemblyInfo.cs
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\obj\Debug\net8.0\tratamento de erros.csproj.CoreCompileInputs.cache
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\obj\Debug\net8.0\tratamento de erros.sourcelink.json
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\obj\Debug\net8.0\tratamento de erros.dll
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\obj\Debug\net8.0\refint\tratamento de erros.dll
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\obj\Debug\net8.0\tratamento de erros.pdb
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\obj\Debug\net8.0\tratamento de erros.genruntimeconfig.cache
+C:\Users\figue\cursos\programador-tech\tratamento de erros\tratamento de erros\obj\Debug\net8.0\ref\tratamento de erros.dll

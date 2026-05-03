@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\figue\\cursos\\programador-tech\\tratamento de erros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E513EB50-ABF5-428D-A5A6-D0A43EBBDB80}|tratamento de erros\\tratamento de erros.csproj|c:\\users\\figue\\cursos\\programador-tech\\tratamento de erros\\tratamento de erros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E513EB50-ABF5-428D-A5A6-D0A43EBBDB80}|tratamento de erros\\tratamento de erros.csproj|solutionrelative:tratamento de erros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\cursos\\programador-tech\\tratamento de erros\\tratamento de erros\\Program.cs",
+              "RelativeDocumentMoniker": "tratamento de erros\\Program.cs",
+              "ToolTip": "C:\\Users\\figue\\cursos\\programador-tech\\tratamento de erros\\tratamento de erros\\Program.cs*",
+              "RelativeToolTip": "tratamento de erros\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T17:27:36.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

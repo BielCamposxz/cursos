@@ -1,0 +1,15 @@
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\bin\Debug\net8.0\teste de velocidade.exe
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\bin\Debug\net8.0\teste de velocidade.deps.json
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\bin\Debug\net8.0\teste de velocidade.runtimeconfig.json
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\bin\Debug\net8.0\teste de velocidade.dll
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\bin\Debug\net8.0\teste de velocidade.pdb
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\obj\Debug\net8.0\teste de velocidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\obj\Debug\net8.0\teste de velocidade.AssemblyInfoInputs.cache
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\obj\Debug\net8.0\teste de velocidade.AssemblyInfo.cs
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\obj\Debug\net8.0\teste de velocidade.csproj.CoreCompileInputs.cache
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\obj\Debug\net8.0\teste de velocidade.sourcelink.json
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\obj\Debug\net8.0\teste de velocidade.dll
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\obj\Debug\net8.0\refint\teste de velocidade.dll
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\obj\Debug\net8.0\teste de velocidade.pdb
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\obj\Debug\net8.0\teste de velocidade.genruntimeconfig.cache
+C:\Users\figue\cursos\programador-tech\teste de velocidade\teste de velocidade\obj\Debug\net8.0\ref\teste de velocidade.dll

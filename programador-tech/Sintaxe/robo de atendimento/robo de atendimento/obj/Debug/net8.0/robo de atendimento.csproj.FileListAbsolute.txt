@@ -1,0 +1,15 @@
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\bin\Debug\net8.0\robo de atendimento.exe
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\bin\Debug\net8.0\robo de atendimento.deps.json
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\bin\Debug\net8.0\robo de atendimento.runtimeconfig.json
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\bin\Debug\net8.0\robo de atendimento.dll
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\bin\Debug\net8.0\robo de atendimento.pdb
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\obj\Debug\net8.0\robo de atendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\obj\Debug\net8.0\robo de atendimento.AssemblyInfoInputs.cache
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\obj\Debug\net8.0\robo de atendimento.AssemblyInfo.cs
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\obj\Debug\net8.0\robo de atendimento.csproj.CoreCompileInputs.cache
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\obj\Debug\net8.0\robo de atendimento.sourcelink.json
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\obj\Debug\net8.0\robo de atendimento.dll
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\obj\Debug\net8.0\refint\robo de atendimento.dll
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\obj\Debug\net8.0\robo de atendimento.pdb
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\obj\Debug\net8.0\robo de atendimento.genruntimeconfig.cache
+C:\Users\figue\cursos\programador-tech\robo de atendimento\robo de atendimento\obj\Debug\net8.0\ref\robo de atendimento.dll

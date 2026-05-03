@@ -1,0 +1,15 @@
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\bin\Debug\net8.0\conversor de medidas.exe
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\bin\Debug\net8.0\conversor de medidas.deps.json
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\bin\Debug\net8.0\conversor de medidas.runtimeconfig.json
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\bin\Debug\net8.0\conversor de medidas.dll
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\bin\Debug\net8.0\conversor de medidas.pdb
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\obj\Debug\net8.0\conversor de medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\obj\Debug\net8.0\conversor de medidas.AssemblyInfoInputs.cache
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\obj\Debug\net8.0\conversor de medidas.AssemblyInfo.cs
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\obj\Debug\net8.0\conversor de medidas.csproj.CoreCompileInputs.cache
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\obj\Debug\net8.0\conversor de medidas.sourcelink.json
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\obj\Debug\net8.0\conversor de medidas.dll
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\obj\Debug\net8.0\refint\conversor de medidas.dll
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\obj\Debug\net8.0\conversor de medidas.pdb
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\obj\Debug\net8.0\conversor de medidas.genruntimeconfig.cache
+C:\Users\figue\cursos\programador-tech\conversor de medidas\conversor de medidas\obj\Debug\net8.0\ref\conversor de medidas.dll

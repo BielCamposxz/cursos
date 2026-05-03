@@ -1,0 +1,15 @@
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\bin\Debug\net8.0\visitando novas cidades.exe
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\bin\Debug\net8.0\visitando novas cidades.deps.json
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\bin\Debug\net8.0\visitando novas cidades.runtimeconfig.json
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\bin\Debug\net8.0\visitando novas cidades.dll
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\bin\Debug\net8.0\visitando novas cidades.pdb
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\obj\Debug\net8.0\visitando novas cidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\obj\Debug\net8.0\visitando novas cidades.AssemblyInfoInputs.cache
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\obj\Debug\net8.0\visitando novas cidades.AssemblyInfo.cs
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\obj\Debug\net8.0\visitando novas cidades.csproj.CoreCompileInputs.cache
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\obj\Debug\net8.0\visitando novas cidades.sourcelink.json
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\obj\Debug\net8.0\visitando novas cidades.dll
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\obj\Debug\net8.0\refint\visitando novas cidades.dll
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\obj\Debug\net8.0\visitando novas cidades.pdb
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\obj\Debug\net8.0\visitando novas cidades.genruntimeconfig.cache
+C:\Users\figue\cursos\programador-tech\visitando novas cidades\visitando novas cidades\obj\Debug\net8.0\ref\visitando novas cidades.dll
